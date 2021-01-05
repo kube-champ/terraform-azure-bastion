@@ -1,7 +1,7 @@
-# Terraform Azure K8S Infra
+# Terraform Azure Bastion
 [![CircleCI](https://circleci.com/gh/kube-champ/terraform-azure-bastion/tree/master.svg?style=shield)](https://circleci.com/gh/kube-champ/terraform-azure-bastion/tree/master) [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![GitHub Release](https://img.shields.io/github/release/kube-champ/terraform-azure-bastion.svg?style=flat)]() [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-This is a terraform module which contains the infrastructure needed when setting up Kubernetes clusters on Azure (AKS)
+This is a terraform module used to create a bastion host on Azure
 ## Module Info
 Check the module documentation [here](https://registry.terraform.io/modules/kube-champ/bastion/azure/latest)
 
